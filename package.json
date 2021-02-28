@@ -1,0 +1,23 @@
+{
+  "name": "personal-online-cv",
+  "version": "1.0.0",
+  "description": "This will be my own personal website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Letshu/PersonalCV.git"
+  },
+  "author": "William Eteta Letshu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Letshu/PersonalCV/issues"
+  },
+  "homepage": "https://github.com/Letshu/PersonalCV#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1"
+  }
+}
