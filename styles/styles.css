@@ -8,3 +8,7 @@ body {
     border-radius: 60%;
     object-fit: cover;
 }
+
+.left-side{
+  background-color: #e8eae6;
+}
