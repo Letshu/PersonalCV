@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Letshu/PersonalCV#readme",
   "dependencies": {
     "dotenv": "^8.2.0",
+    "everyday-fun": "^1.1.0",
     "express": "^4.17.1"
   }
 }

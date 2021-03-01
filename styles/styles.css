@@ -1,0 +1,10 @@
+body {
+  background-color:white;
+}
+
+.MyImg {
+    max-height: 260px;
+    max-width: 260px;
+    border-radius: 60%;
+    object-fit: cover;
+}
